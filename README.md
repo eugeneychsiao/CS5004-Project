@@ -1,6 +1,6 @@
-CS 5004
+**CS 5004
 Assignment 6
-Yu-chun(Eugene) Hsiao, Zhenning Yu
+Yu-chun(Eugene) Hsiao, Zhenning Yu**
 
 This project is an animation editor that allows users to create multiple simple shapes. Shapes can be moved, scaled, or have their colors changed.
 
