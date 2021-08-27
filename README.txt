@@ -2,7 +2,7 @@ CS 5004
 Assignment 6
 Yu-chun(Eugene) Hsiao, Zhenning Yu
 
-This project is about an animation editor that users can create multiple simple shapes then move, scale them, or change their colors.
+This project is an animation editor that allows users to create multiple simple shapes. Shapes can be moved, scaled, or have their colors changed.
 
 Building off of assignment 7, we first made changes to the view string. Rather than creating a new JFramePanel at every time tick, we
 changed the code to update the current JFramePanel. This removed the overlapping panels that was previously displayed.
